@@ -3,4 +3,4 @@
 
 [My CIS Website on uoregon.edu](http://pages.uoregon.edu/mpatton/111/)
 
-![github social coding logo](images/github-image.jpg)
+![github social coding logo](images/github-image.JPG)
