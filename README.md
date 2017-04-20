@@ -1,6 +1,5 @@
-# Hello,
-## World!
+# Hello, World!
 
-[My CIS Website on uoregon.edu](http://pages.uoregon.edu/mpatton/111/)
+:smirk: [My CIS Website on uoregon.edu](http://pages.uoregon.edu/mpatton/111/)
 
 ![github social coding logo](images/github-image.JPG)
