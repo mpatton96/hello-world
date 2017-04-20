@@ -1,4 +1,4 @@
-# Hello, World!
+# Hello, World! :earth_americas:
 
 :smirk: [My CIS Website on uoregon.edu](http://pages.uoregon.edu/mpatton/111/)
 
